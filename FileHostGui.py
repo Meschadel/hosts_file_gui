@@ -172,7 +172,7 @@ button_2.place(x=400,y=100)
 
 ########
 frame2_1_2=Frame(frame2_1, height=50,width=600, background="gray")
-line_modify=Label(frame2_1_2, text="delte line: ",background="gray", font=("Arial",12), fg="white")
+line_modify=Label(frame2_1_2, text="delete line: ",background="gray", font=("Arial",12), fg="white")
 line_modify.place(x=10, y=10)
 line_num=Entry(frame2_1_2,font=("Arial", 12))
 line_num.place(x=100,y=10)
