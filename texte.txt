@@ -1,0 +1,3 @@
+192.168            ww.google.com
+192.168            ww.google.com
+8.8.8.8            www.google.com
